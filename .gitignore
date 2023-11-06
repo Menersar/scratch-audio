@@ -11,3 +11,5 @@ npm-*
 
 /dist.js
 /dist.js.map
+
+/.history
